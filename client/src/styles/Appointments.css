@@ -1,0 +1,14 @@
+#appointment-header {
+    width: 50%;
+    display: inline !important;
+}
+
+#addAppointmentForm {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 200px;
+}
+
+#logoutButton {
+    float: right;
+}
